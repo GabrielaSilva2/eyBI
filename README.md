@@ -1,0 +1,7 @@
+INTEGRANTES: EYSHILA NEUBERT BASSETTO e GABRIELA SILVA DE ARAUJO
+
+LINK DO APK:
+https://expo.dev/artifacts/eas/2uRaT2WWXjguSHKobUUZeA.apk
+
+
+
