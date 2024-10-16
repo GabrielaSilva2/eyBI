@@ -1,5 +1,5 @@
 
-- Baixar o arquivo apk
+- Link do arquivo apk
 
 
 
